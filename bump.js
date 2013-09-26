@@ -1,6 +1,6 @@
 #! /usr/bin/env node
 
-fs = require('fs')
+var fs = require('fs')
 
 var currentDir = process.cwd()
 
