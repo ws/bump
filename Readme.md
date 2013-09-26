@@ -4,12 +4,15 @@ A super simple way to bump your package.json version numbers.
 ## How To Use:
 
 To bump major:
+
 	node bump.js major
 
 To bump minor:
+
 	node bump.js minor
 
 To bump patch:
+
 	node bump.js patch
 
 To bump all of them:
